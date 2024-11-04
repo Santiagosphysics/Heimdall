@@ -1,0 +1,5 @@
+pygame 2.6.1
+SpeechRecognition == 3.11.0
+
+# conda activate gp2_2_copy
+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
